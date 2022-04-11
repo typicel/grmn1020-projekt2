@@ -75,7 +75,7 @@ const InfoSection = () => {
               </h5>
               <div className="card-text">
                 <p>
-                  <strong>Menchen:</strong> $150
+                  <strong>Erwachsene:</strong> $150
                   <br></br>
                   <strong>Kinder (12 und unter):</strong> $100
                 </p>
